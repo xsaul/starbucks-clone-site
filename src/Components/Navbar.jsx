@@ -27,7 +27,7 @@ function Navbar() {
           </div>
         </div>
         <Routes>
-          <Route path='/starbucks-clone/' element={<Home />}/>
+          <Route path='/starbucks-clone-site/' element={<Home />}/>
           <Route path='/Menu' element={<Menu />}/>
           <Route path='/GiftCards' element={<GiftCards />}/>
         </Routes>
